@@ -13,6 +13,26 @@
         android:theme="@style/Theme.ComposeBasic"
         tools:targetApi="31">
         <activity
+            android:name=".Chap24Activity"
+            android:exported="false"
+            android:label="@string/title_activity_chap24"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
+            android:name=".Chap23Activity"
+            android:exported="false"
+            android:label="@string/title_activity_chap23"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
+            android:name=".Chap22Activity"
+            android:exported="false"
+            android:label="@string/title_activity_chap22"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
+            android:name=".Chap21Activity"
+            android:exported="false"
+            android:label="@string/title_activity_chap21"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
             android:name=".Chap20Activity"
             android:exported="false"
             android:label="@string/title_activity_chap20"

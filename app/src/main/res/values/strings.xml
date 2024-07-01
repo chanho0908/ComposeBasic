@@ -2,4 +2,8 @@
     <string name="app_name">ComposeBasic</string>
     <string name="title_activity_chap19_main">Chap19MainActivity</string>
     <string name="title_activity_chap20">Chap20Activity</string>
+    <string name="title_activity_chap21">Chap21Activity</string>
+    <string name="title_activity_chap22">Chap22Activity</string>
+    <string name="title_activity_chap23">Chap23Activity</string>
+    <string name="title_activity_chap24">Chap24Activity</string>
 </resources>
