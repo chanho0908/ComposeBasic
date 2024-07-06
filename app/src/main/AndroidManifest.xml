@@ -13,6 +13,11 @@
         android:theme="@style/Theme.ComposeBasic"
         tools:targetApi="31">
         <activity
+            android:name=".Chap26Activity"
+            android:exported="true"
+            android:label="@string/title_activity_chap26"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
             android:name=".Chap25Activity"
             android:exported="true"
             android:label="@string/title_activity_chap25"
