@@ -13,6 +13,16 @@
         android:theme="@style/Theme.ComposeBasic"
         tools:targetApi="31">
         <activity
+            android:name=".Chap32Activity"
+            android:exported="false"
+            android:label="@string/title_activity_chap32"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
+            android:name=".ui.theme.Chap31Activity"
+            android:exported="false"
+            android:label="@string/title_activity_chap31"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
             android:name=".ConstraintSetActivity"
             android:exported="false"
             android:label="@string/title_activity_constraint_set"

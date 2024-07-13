@@ -14,4 +14,6 @@
     <string name="title_activity_chap30">Chap30Activity</string>
     <string name="title_activity_chap30_barrier">Chap30BarrierActivity</string>
     <string name="title_activity_constraint_set">ConstraintSetActivity</string>
+    <string name="title_activity_chap31">Chap31Activity</string>
+    <string name="title_activity_chap32">Chap32Activity</string>
 </resources>
