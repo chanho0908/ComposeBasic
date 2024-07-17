@@ -10,4 +10,8 @@
     <string name="title_activity_chap26">Chap26Activity</string>
     <string name="title_activity_chap27">Chap27Activity</string>
     <string name="title_activity_chap28">Chap28Activity</string>
+    <string name="title_activity_chap29">Chap29Activity</string>
+    <string name="title_activity_chap30">Chap30Activity</string>
+    <string name="title_activity_chap30_barrier">Chap30BarrierActivity</string>
+    <string name="title_activity_constraint_set">ConstraintSetActivity</string>
 </resources>

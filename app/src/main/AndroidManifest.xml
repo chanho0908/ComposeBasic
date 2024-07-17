@@ -13,6 +13,26 @@
         android:theme="@style/Theme.ComposeBasic"
         tools:targetApi="31">
         <activity
+            android:name=".ConstraintSetActivity"
+            android:exported="false"
+            android:label="@string/title_activity_constraint_set"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
+            android:name=".Chap30BarrierActivity"
+            android:exported="false"
+            android:label="@string/title_activity_chap30_barrier"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
+            android:name=".Chap30Activity"
+            android:exported="false"
+            android:label="@string/title_activity_chap30"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
+            android:name=".Chap29Activity"
+            android:exported="false"
+            android:label="@string/title_activity_chap29"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
             android:name=".Chap28Activity"
             android:exported="false"
             android:label="@string/title_activity_chap28"
