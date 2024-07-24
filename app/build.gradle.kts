@@ -70,4 +70,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     implementation(libs.androidx.constraintlayout.compose)
+    implementation(libs.coil.kt.coil.compose)
 }
