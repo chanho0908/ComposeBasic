@@ -71,4 +71,5 @@ dependencies {
 
     implementation(libs.androidx.constraintlayout.compose)
     implementation(libs.coil.kt.coil.compose)
+    implementation(libs.androidx.lifecycle.viewmodel.compose)
 }
