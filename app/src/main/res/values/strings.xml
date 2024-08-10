@@ -23,4 +23,8 @@
     <string name="title_activity_chap37">Chap37Activity</string>
     <string name="title_activity_chap40">Chap40Activity</string>
     <string name="title_activity_chap41">Chap41Activity</string>
+    <string name="title_activity_chap43">Chap43Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_chap45">Chap45Activity</string>
+    <string name="title_activity_chap46">Chap46Activity</string>
 </resources>
