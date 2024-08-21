@@ -79,4 +79,7 @@ dependencies {
     implementation(libs.androidx.room.ktx)
     annotationProcessor(libs.androidx.room.compiler)
     kapt("androidx.room:room-compiler:2.6.1")
+
+    implementation(libs.androidx.lifecycle.viewmodel.compose.v261)
+    implementation(libs.androidx.lifecycle.runtime.ktx.v284)
 }
